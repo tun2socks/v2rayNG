@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.v2ray.ang">
+    package="com.tun2socks">
 
     <supports-screens
             android:anyDensity="true"
@@ -100,7 +100,7 @@
 
         <!--<intent-filter>-->
         <!--<action android:name="android.appwidget.action.APPWIDGET_UPDATE" />-->
-        <!--<action android:name="com.v2ray.ang.action.widget.click" />-->
+        <!--<action android:name="com.tun2socks.action.widget.click" />-->
         <!--</intent-filter>-->
         <!--</receiver>-->
 
